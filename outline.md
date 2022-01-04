@@ -6,6 +6,26 @@
     3. showcase a typical Julia workflow
 - Roughly follow the [Julia 1.6 docs](https://docs.julialang.org/en/v1.6/)
 
+## Pitch
+
+I will be teaching a series of instructional Julia sessions once a month. Each month's session will be four hours of lectures, practical examples, and guided projects tailored towards economics research computing using Julia. 
+
+Each month covers a different topic and can be attended in isolation, though the first session covers the basics of Julia and may be useful for more advanced sessions if you are not currently familiar with Julia.
+
+Topic map:
+
+- Julia Basics (January)
+- Parallelization for Economists (Februrary)
+- Optimization and Automatic Differentiation (March)
+- Performant Programming and Best Practices (April)
+- Bayesian Inference and Probabilistic Programming (May)
+
+The first session is currently being held virtually via Zoom. Later sessions may be in person, circumstances permitting. 
+
+No prior Julia experience is required, though it will be useful to have experience programming in any language.
+
+To register, please visit =============================================
+
 # Sketch
 
 ## Getting started
