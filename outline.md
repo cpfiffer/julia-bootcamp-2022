@@ -8,13 +8,13 @@
 
 ## Pitch
 
-I will be teaching a series of instructional Julia sessions once a month. Each month's session will be four hours of lectures, practical examples, and guided projects tailored towards economics research computing using Julia. 
+I will be teaching a series of instructional Julia sessions once a month. Each month's session will be four hours of lectures, practical examples, and guided projects tailored towards economics research computing using Julia. The first course takes place on Wednesday, January 12th, from 9am to 1pm.
 
 Each month covers a different topic and can be attended in isolation, though the first session covers the basics of Julia and may be useful for more advanced sessions if you are not currently familiar with Julia.
 
 Topic map:
 
-- Julia Basics (January)
+- Julia Basics (January 12th)
 - Parallelization for Economists (Februrary)
 - Optimization and Automatic Differentiation (March)
 - Performant Programming and Best Practices (April)
@@ -24,7 +24,9 @@ The first session is currently being held virtually via Zoom. Later sessions may
 
 No prior Julia experience is required, though it will be useful to have experience programming in any language.
 
-To register, please visit =============================================
+To register to attend, please visit
+
+https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
 
 # Sketch
 
