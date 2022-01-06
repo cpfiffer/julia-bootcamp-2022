@@ -1,3 +1,5 @@
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"

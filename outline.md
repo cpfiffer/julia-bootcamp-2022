@@ -58,6 +58,11 @@ https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
 - Basic operators (math/bool/etc.)
     - PRACTICE: Basic numeric operations
     - PRACTICE: String concatenation
+- Functions
+    - returning singletons, tuples, etc.
+    - Arguments
+    - Keyword arguments
+    - Composition/pipes
 - Array types
     - Indexing
     - Length, size, etc.
@@ -65,11 +70,6 @@ https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
     - PRACTICE: reduce
     - PRACTICE: push!, append!
     - LinearAlgebra basics
-- Functions
-    - returning singletons, tuples, etc.
-    - Arguments
-    - Keyword arguments
-    - Composition/pipes
 - Broadcasting!
 - Control flow
     - begin
@@ -77,7 +77,6 @@ https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
     - short-circuiting
     - while/for
     - try/catch/finally
-- Scope blitz, constants
 - Types
     - Abstract (briefly)
     - Composite
