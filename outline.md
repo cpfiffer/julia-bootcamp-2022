@@ -52,9 +52,7 @@ https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
 ## Language basics
 
 - Variable basics
-    - PRACTICE: Assignment and variable reference
 - Primitive types (numerics/strings/characters)
-    - Brief aside on Float/Int
 - Basic operators (math/bool/etc.)
     - PRACTICE: Basic numeric operations
     - PRACTICE: String concatenation
@@ -130,7 +128,6 @@ https://stanford.zoom.us/meeting/register/tJcufuiupj4iHd1pzgQqdsV5jIr8DJY5pF5n
     - Zygote
     - Enzyme
     - Diffractor
-
 
 ## Bayes
 
