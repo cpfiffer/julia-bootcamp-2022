@@ -25,3 +25,5 @@ Manifest.toml
 
 session-1/example-write.csv
 .ipynb_checkpoints
+
+recordings/
