@@ -14,6 +14,7 @@ Topic map:
 
 ## Session 1: Julia basis
 
+- [Recording](https://youtu.be/BnTYMOOPEzw)
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/intro.ipynb)
 - [Example data](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/example.csv)
 - [Project solution](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/project.jl)
