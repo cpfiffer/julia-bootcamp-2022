@@ -7,11 +7,11 @@ y = x*b + sigma .* randn(n);
 
 # Write types
 abstract type StandardErrorEstimator end
-struct Bootstrap
+struct Bootstrap <: StandardErrorEstimator
     bootstrap_samples::Int
     subsample_size::Int
 end
-struct Spherical end
+struct Spherical <: StandardErrorEstimator end
 
 # Estimator code
 ols(x, y) = ols(x, y, Spherical())
