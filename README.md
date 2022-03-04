@@ -18,3 +18,8 @@ Topic map:
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/intro.ipynb)
 - [Example data](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/example.csv)
 - [Project solution](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/project.jl)
+
+## Session 2: Parallelization
+
+- [Recording](https://www.youtube.com/watch?v=trhsvOAH0YI)
+- [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-2/parallelization-lecture.ipynb)
