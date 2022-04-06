@@ -23,3 +23,8 @@ Topic map:
 
 - [Recording](https://www.youtube.com/watch?v=trhsvOAH0YI)
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-2/parallelization-lecture.ipynb)
+
+## Session 3: Optimization and Automatic Differentiation
+
+- [Recording](https://www.youtube.com/watch?v=B5O3xBolDCc)
+- [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-3/optimization-lecture.ipynb)
