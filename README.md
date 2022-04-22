@@ -12,7 +12,7 @@ Topic map:
 - Performant Programming and Best Practices (April)
 - Bayesian Inference and Probabilistic Programming (May)
 
-## Session 1: Julia basis
+## Session 1: Julia basics
 
 - [Recording](https://youtu.be/BnTYMOOPEzw)
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-1/intro.ipynb)
