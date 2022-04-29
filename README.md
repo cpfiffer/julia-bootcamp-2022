@@ -28,3 +28,8 @@ Topic map:
 
 - [Recording](https://www.youtube.com/watch?v=B5O3xBolDCc)
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-3/optimization-lecture.ipynb)
+
+## Session 4: High-performance Julia
+
+- [Recording](https://youtu.be/i35LlZWZl1g)
+- [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-4/speed-lecture.ipynb)
