@@ -1,16 +1,8 @@
 # Julia for Economists Bootcamp, 2022
 
-I will be teaching a series of instructional Julia sessions once a month. Each month's session will be four hours of lectures, practical examples, and guided projects tailored towards economics research computing using Julia. The first course takes place on Wednesday, January 12th, from 9am to 1pm. Currently, the lectures are restricted to Stanford affiliates, but recordings will be linked to from here.
+I taught a series of instructional Julia sessions at Stanford's GSB. Each month's session was two to four hours of lectures, practical examples, and guided projects tailored towards economics research computing using Julia.
 
 Each month covers a different topic and can be attended in isolation, though the first session covers the basics of Julia and may be useful for more advanced sessions if you are not currently familiar with Julia.
-
-Topic map:
-
-- Julia Basics (January 12th)
-- Parallelization for Economists (Februrary)
-- Optimization and Automatic Differentiation (March)
-- Performant Programming and Best Practices (April)
-- Bayesian Inference and Probabilistic Programming (May)
 
 ## Session 1: Julia basics
 
@@ -33,3 +25,8 @@ Topic map:
 
 - [Recording](https://youtu.be/i35LlZWZl1g)
 - [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-4/speed-lecture.ipynb)
+
+## Session 5: Computational Bayesian statistics
+
+- [Recording](https://youtu.be/lnbA_j2YwyA)
+- [Lecture notes](https://github.com/cpfiffer/julia-bootcamp-2022/blob/main/session-5/bayes-lecture.ipynb)
