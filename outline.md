@@ -15,7 +15,7 @@ Each month covers a different topic and can be attended in isolation, though the
 Topic map:
 
 - Julia Basics (January 12th)
-- Parallelization for Economists (Februrary)
+- Parallelization for Economists (February)
 - Optimization and Automatic Differentiation (March)
 - Performant Programming and Best Practices (April)
 - Bayesian Inference and Probabilistic Programming (May)
